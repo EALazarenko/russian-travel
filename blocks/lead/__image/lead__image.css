@@ -1,28 +1,27 @@
 .lead__image {
-    max-width: 100%;
-    max-height: auto;
-    object-fit: cover;
-    object-position: center;
-    box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    margin: 32px auto 8px;
+  max-width: 100%;
+  object-fit: cover;
+  object-position: center;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  margin: 32px auto 8px;
 }
 
 @media screen and (max-width: 1124px) {
-    .lead__image {
-        margin: 28px auto 8px;
-    }
+  .lead__image {
+    margin: 28px auto 8px;
+  }
 }
 
 @media screen and (max-width: 984px) {
-    .lead__image {
-        margin: 28px 0 8px;
-    }
+  .lead__image {
+    margin: 28px 0 8px;
+  }
 }
 
 @media screen and (max-width: 568px) {
-    .lead__image {
-        margin: 20px 0 8px;
-    }
+  .lead__image {
+    margin: 20px 0 8px;
+  }
 }

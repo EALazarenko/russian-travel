@@ -1,25 +1,25 @@
 .header {
-    font-family: 'Inter', Arial, Helvetica, sans-serif;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: flex-end;
-    min-height: min-content;
-    margin: 0;
-    padding: 0 48px;
-    box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
+  font-family: 'Inter', Arial, Helvetica, sans-serif;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-end;
+  min-height: min-content;
+  margin: 0;
+  padding: 0 48px;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
 }
 
 @media screen and (max-width: 984px) {
-    .header {
-        padding: 0 24px;
-    }
+  .header {
+    padding: 0 24px;
+  }
 }
 
 @media screen and (max-width: 568px) {
-    .header {
-        padding: 0 16px;
-    }
+  .header {
+    padding: 0 16px;
+  }
 }

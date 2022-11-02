@@ -1,14 +1,14 @@
 .place__text {
-    margin: 0;
-    padding: 0;
-    align-self: flex-start;
-    box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  align-self: flex-start;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
 }
 
 @media screen and (max-width: 568px) {
-    .place__text {
-        padding: 0 16px;
-    }
+  .place__text {
+    padding: 0 16px;
+  }
 }
