@@ -9,9 +9,3 @@
   text-transform: uppercase;
   color: #aaa;
 }
-
-@media screen and (max-width: 984px) {
-  .place__heading {
-    line-height: 12px;
-  }
-}
